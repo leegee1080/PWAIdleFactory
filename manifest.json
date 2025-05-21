@@ -1,0 +1,15 @@
+{
+  "name": "Idle Factory Game",
+  "short_name": "Idle Factory",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#202121",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "run-down",
+    "price": 10,
+    "production": 1,
+    "productionTime": 1,
+    "icon": "graphics/run-down-factory.png"
+  },
+  {
+    "name": "simple",
+    "price": 50,
+    "production": 2,
+    "productionTime": 1,
+    "icon": "graphics/simple-factory.png"
+  }
+]
